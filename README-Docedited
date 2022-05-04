@@ -1,0 +1,26 @@
+Tunrip in a Case
+
+This is a simple game that runs a python script called " Turn in a Case " Based on Carrot in a Box by Al Sweigart
+## Getting Started
+
+Turnip.py will run after you have installed and loaded it into your IDE and shall run as  standalone game for demonstration purposes
+
+
+### Prerequisites
+
+Turnip.py requires Python version 3 and above and any interface on Windwos, Mac OS or Linux/Debian to launch this.
+
+Of course, you will need to ensure your local Python terminal has been updated by doing prefunctory commands of
+sudo apt update
+sudo apt upgrade
+sudo apt install package1 package2
+```
+
+
+#Running
+Once you have the project loaded into your IDE, you can run it by running ' Turnip.py'
+
+```
+
+## Thanks
+Kudos goes to the original creator of Carrot in a Box, Al Sweigart, and to my instructors at RTC, Zak Rubin and Justin Ellis.
